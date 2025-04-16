@@ -1,5 +1,5 @@
 {
-  "homepage": "http://192.168.1.27:3000",
+  "homepage": "https://dagar-Sahil03.github.io/portfolio",
   "name": "text",
   "version": "0.1.0",
   "private": true,
@@ -56,6 +56,6 @@
     "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@babel/plugin-transform-private-methods": "^7.25.9",
     "@rollup/plugin-terser": "^0.4.4",
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }
