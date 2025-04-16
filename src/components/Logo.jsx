@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const Logo = () => {
   return (
     <LOGO>
-        <img src="public/Logo.png" alt="Sahil's Logo" />
+        <img src="/Logo.png" alt="Sahil's Logo" />
     </LOGO>
   )
 }
